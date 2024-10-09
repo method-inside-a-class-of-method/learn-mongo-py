@@ -1,0 +1,102 @@
+[
+    {
+        "user_id": "11",
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "affiliation": {
+            "company": "Tech Corp",
+            "department": "Engineering",
+            "role": "Engineer"
+        }
+    },
+    {
+        "user_id": "12",
+        "name": "Jane Doe",
+        "email": "janedoe@example.com",
+        "affiliation": {
+            "company": "Art Corp",
+            "department": "Design",
+            "role": "Designer"
+        }
+    },
+    {
+        "user_id": "13",
+        "name": "Sam Smith",
+        "email": "samsmith@example.com",
+        "affiliation": {
+            "company": "Tech Branch Corp 2",
+            "department": "Human Resources",
+            "role": "HR Manager"
+        }
+    },
+    {
+        "user_id": "14",
+        "name": "Emma Jones",
+        "email": "emmajones@example.com",
+        "affiliation": {
+            "company": "Tech Branch Corp 1",
+            "department": "Marketing",
+            "role": "Marketing Manager"
+        }
+    },
+    {
+        "user_id": "15",
+        "name": "Oliver Brown",
+        "email": "oliverbrown@example.com",
+        "affiliation": {
+            "company": "Biz Corp",
+            "department": "Sales",
+            "role": "Sales Manager"
+        }
+    },
+    {
+        "user_id": "16",
+        "name": "Sophia Davis",
+        "email": "sophiadavis@example.com",
+        "affiliation": {
+            "company": "Tech Corp",
+            "department": "Sales",
+            "role": "Sales Manager"
+        }
+    },
+    {
+        "user_id": "17",
+        "name": "Liam Johnson",
+        "email": "liamjohnson@example.com",
+        "affiliation": {
+            "company": "Tech Branch Corp 1",
+            "department": "Product",
+            "role": "Product Manager"
+        }
+    },
+    {
+        "user_id": "18",
+        "name": "Mia Taylor",
+        "email": "miataylor@example.com",
+        "affiliation": {
+            "company": "Guest Corp",
+            "department": "Customer Service",
+            "role": "Customer Service Representative"
+        }
+    },
+    {
+        "user_id": "19",
+        "name": "Noah Williams",
+        "email": "noahwilliams@example.com",
+        "affiliation": {
+            "company": "Biz Branch Corp 1",
+            "department": "Research",
+            "role": "Researcher"
+        }
+    },
+    {
+        "user_id": "20",
+        "name": "Harper Thomas",
+        "email": "harperthomas@example.com",
+        "affiliation": {
+            "company": "Tech Corp",
+            "department": "Legal",
+            "role": "Legal Advisor"
+        }
+    }
+]

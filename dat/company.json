@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Tech Corp",
+        "departments": [
+            {
+                "name": "Engineering",
+                "head": "Jane Doe"
+            },
+            {
+                "name": "Sales",
+                "head": "John Smith"
+            }
+        ],
+        "subsidiaries": [
+            {
+                "name": "Tech Branch Corp 1",
+                "departments": [
+                    {
+                        "name": "Product",
+                        "head": "Jake Kim"
+                    },
+                    {
+                        "name": "Marketing",
+                        "head": "Claire Lee"
+                    }
+                ]
+            },
+            {
+                "name": "Tech Branch Corp 2",
+                "departments": [
+                    {
+                        "name": "IT",
+                        "head": "Emma Jones"
+                    },
+                    {
+                        "name": "Human Resources",
+                        "head": "Henry Brown"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Biz Corp",
+        "departments": [
+            {
+                "name": "Sales",
+                "head": "Alex Johnson"
+            },
+            {
+                "name": "Customer Service",
+                "head": "Lucia Rodriguez"
+            }
+        ],
+        "subsidiaries": [
+            {
+                "name": "Biz Branch Corp 1",
+                "departments": [
+                    {
+                        "name": "IT",
+                        "head": "Ethan Miller"
+                    },
+                    {
+                        "name": "Research",
+                        "head": "Sophia Davis"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Art Corp",
+        "departments": [
+            {
+                "name": "Design",
+                "head": "Ava Martinez"
+            },
+            {
+                "name": "Production",
+                "head": "William Garcia"
+            },
+            {
+                "name": "Sales",
+                "head": "Sam Smith"
+            }
+        ]
+    }
+]

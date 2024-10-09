@@ -1,0 +1,52 @@
+[
+    {
+        "user_id": "1",
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+    },
+    {
+        "user_id": "2",
+        "name": "Jane Doe",
+        "email": "janedoe@example.com"
+    },
+    {
+        "user_id": "3",
+        "name": "Sam Smith",
+        "email": "samsmith@example.com"
+    },
+    {
+        "user_id": "4",
+        "name": "Emma Watson",
+        "email": "emmawatson@example.com"
+    },
+    {
+        "user_id": "5",
+        "name": "Tom Hanks",
+        "email": "tomhanks@example.com"
+    },
+    {
+        "user_id": "6",
+        "name": "Scarlett Johansson",
+        "email": "scarjohanson@example.com"
+    },
+    {
+        "user_id": "7",
+        "name": "Hugh Jackman",
+        "email": "hughjackman@example.com"
+    },
+    {
+        "user_id": "8",
+        "name": "Angelina Jolie",
+        "email": "angelinajolie@example.com"
+    },
+    {
+        "user_id": "9",
+        "name": "Brad Pitt",
+        "email": "bradpitt@example.com"
+    },
+    {
+        "user_id": "10",
+        "name": "Jennifer Aniston",
+        "email": "jenaniston@example.com"
+    }
+]
