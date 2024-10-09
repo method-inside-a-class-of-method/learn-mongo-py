@@ -1,4 +1,3 @@
-version: '3.9'
 services:
   backend:
     container_name: backend
@@ -7,7 +6,7 @@ services:
       - .:/usr/src/app
     working_dir: /usr/src/app
     tty: true
-    command: ["sh", "./scripts/sh/setup_backend.sh"]
+    command: bash -c "bash ./scripts/sh/setup_backend.sh && /bin/bash"
   mongo:
     container_name: mongo
     image: mongo
