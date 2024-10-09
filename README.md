@@ -8,10 +8,15 @@
 docker-compose up -d
 ```
 
-### backend
+### backendコンテナ
 
-### mongo
+- Python(Jupyer)コードを実行する環境
 
-### mongo-express
+### mongoコンテナ
 
-[dashboard](http://localhost:8081)
+- mongo DB本体
+
+### mongo-expressコンテナ
+
+- ブラウザのGUIでmongo DBのメンテナンスができる
+  - [dashboard](http://localhost:8081)
